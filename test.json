@@ -1,0 +1,39 @@
+{
+    "Top": {
+        "color":"W", 
+        "orient": "top", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    },
+
+    "Bottom": {
+        "color":"W", 
+        "orient": "buttom", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    },
+
+    "Front": {
+        "color":"W", 
+        "orient": "front", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    },   
+
+    "Back": {
+        "color":"W", 
+        "orient": "back", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    },
+
+    "Left": {
+        "color":"W", 
+        "orient": "left", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    },   
+
+    "Right": {
+        "color":"W", 
+        "orient": "right", 
+        "face_list":  [["W1", "W2", "W3"], ["W4", "W ", "W6"], ["W7", "W8", "W9"]]
+    }
+}
+
+

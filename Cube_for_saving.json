@@ -1,0 +1,128 @@
+{
+    "Top": {
+        "color": "W",
+        "face_list": [
+            [
+                "W3",
+                "W6",
+                "B3"
+            ],
+            [
+                "W4",
+                "W ",
+                "O6"
+            ],
+            [
+                "W7",
+                "W8",
+                "O9"
+            ]
+        ],
+        "orient": "top"
+    },
+    "Bottom": {
+        "color": "Y",
+        "face_list": [
+            [
+                "Y1",
+                "Y2",
+                "Y3"
+            ],
+            [
+                "Y4",
+                "Y ",
+                "Y6"
+            ],
+            [
+                "G7",
+                "Y8",
+                "Y9"
+            ]
+        ],
+        "orient": "bottom"
+    },
+    "Left": {
+        "color": "B",
+        "face_list": [
+            [
+                "B1",
+                "B2",
+                "R9"
+            ],
+            [
+                "B4",
+                "B ",
+                "B6"
+            ],
+            [
+                "B7",
+                "B8",
+                "B9"
+            ]
+        ],
+        "orient": "left"
+    },
+    "Right": {
+        "color": "G",
+        "face_list": [
+            [
+                "W1",
+                "G2",
+                "G3"
+            ],
+            [
+                "G8",
+                "G ",
+                "G6"
+            ],
+            [
+                "G9",
+                "R8",
+                "W9"
+            ]
+        ],
+        "orient": "right"
+    },
+    "Front": {
+        "color": "O",
+        "face_list": [
+            [
+                "O1",
+                "O2",
+                "Y7"
+            ],
+            [
+                "O4",
+                "O ",
+                "W2"
+            ],
+            [
+                "O7",
+                "O8",
+                "O3"
+            ]
+        ],
+        "orient": "front"
+    },
+    "Back": {
+        "color": "R",
+        "face_list": [
+            [
+                "R1",
+                "R2",
+                "R3"
+            ],
+            [
+                "R4",
+                "R ",
+                "R6"
+            ],
+            [
+                "G1",
+                "G4",
+                "R7"
+            ]
+        ],
+        "orient": "back"
+    }
+}
